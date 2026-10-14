@@ -39,3 +39,4 @@ def verificar_push(comando):
     print("Hook previo al push: pruebas aprobadas; se permite continuar.\n" + salida, file=sys.stderr)
 
 # commit prueba hook jaja
+# comentario 2
